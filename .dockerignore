@@ -30,6 +30,3 @@
 /tmp/storage/*
 !/tmp/storage/.keep
 
-# Ignore temporary files
-tmp/*
-log/*

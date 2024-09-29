@@ -1,0 +1,29 @@
+
+ @import 'bootstrap';
+ @import "static_pages";
+
+ footer {
+    margin-top: 45px;
+    padding-top: 5px;
+    border-top: 1px solid rgb(87, 84, 84);
+    color: gold
+    a {
+      color: gray
+      /*It means: that a:hover */
+
+    }
+    small {
+      float: left;
+    }
+    ul {
+      float: right;
+      list-style: none;
+      li {
+        float: left;
+        margin-left: 15px;
+      }
+    }
+  }
+
+
+
